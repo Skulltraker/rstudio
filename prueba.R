@@ -4,3 +4,9 @@ e <- function(a){
 }
 
 e(4)
+
+for (i in 1:10) {
+  print(1+1)
+  
+}
+hola
