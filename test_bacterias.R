@@ -208,7 +208,3 @@ if(info==1){
 
 identificar_q()
 
-extra <- c(parecido1, parecido2,parecido3,parecido4,parecido5,parecido6,parecido7,parecido8,parecido9,parecido10,parecido11,parecido12,
-           parecido13,parecido14,parecido15,parecido16,parecido17,parecido18,parecido19,parecido20,parecido21,parecido22,parecido23,parecido24,
-           parecido25,parecido26,parecido27,parecido28,parecido29,parecido30,parecido31,parecido32,parecido33,parecido34,parecido35,parecido36,
-           parecido37,parecido38,parecido39,parecido40,parecido41,parecido42)
